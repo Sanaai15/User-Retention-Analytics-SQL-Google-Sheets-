@@ -1,12 +1,12 @@
-Project Overview
+****Project Overview****
 
 This project focuses on user retention analysis using cohort analysis techniques. The objective was to evaluate user engagement over time and compare retention performance between promotional and organic acquisition channels.
 
-Tools Used
+**Tools Used**
 SQL
 DBeaver
 Google Sheets
-Key Tasks
+**Key Tasks**
 Extracted and prepared user activity data from a relational database using SQL.
 Cleaned and transformed date fields stored in different formats.
 Calculated user cohorts based on first activity month.
